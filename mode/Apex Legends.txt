@@ -1,0 +1,3 @@
+# Apex Legends
+EasyAntiCheat_launcher.exe
+r5apex.exe
